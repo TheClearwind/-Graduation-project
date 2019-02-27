@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>182.jpg</filename>
+	<path>C:/Users/Lambda/Desktop/YoloPlayCard/data/Annotations/182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>172</ymin>
+			<xmax>226</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
