@@ -1,2 +1,2 @@
-# -Graduation-project
+# Graduation-project
 我的毕业设计
